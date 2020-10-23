@@ -9,45 +9,37 @@ sections:
 - type: document
   path: SeafeastVideoEdits
   label: Video Editing for SeaFeast
-  match: "**/*"
 - type: heading
   label: Resume
 - type: document
   path: Resume
   label: Resume
-  match: "**/*"
 - type: heading
   label: Curriculum Vitae (Education)
 - type: document
   path: CV
   label: Curriculum Vitae
-  match: "**/*"
 - type: heading
   label: Public Relations
 - type: document
   path: SSI
   label: PR for the Salish Sea Institute
-  match: "**/*"
 - type: heading
   label: Videos
 - type: document
   path: soaringtowardsdecline
   label: Soaring towards decline
-  match: "**/*"
 - type: document
   path: barleyforbeer
   label: Barley for Beer
-  match: "**/*"
 - type: heading
   label: News Stories
 - type: document
   path: testingwithaswab
   label: 'Fighting COVID with a swab: testing remains a vital weapon in saving lives'
-  match: "**/*"
 - type: document
   path: toxictansyragwort
   label: Toxic Tansy Ragwort
-  match: "**/*"
 - type: directory
   path: ''
   label: Directory
