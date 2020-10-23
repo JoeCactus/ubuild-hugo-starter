@@ -4,6 +4,26 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: document
+  path: toxictansyragwort
+  label: Toxic Tansy Ragwort
+  match: "**/*"
+- type: document
+  path: testingwithaswab
+  label: 'Fighting COVID with a swab: testing remains a vital weapon in saving lives'
+  match: "**/*"
+- type: heading
+  label: Volunteer Work
+- type: heading
+  label: Resume
+- type: heading
+  label: Curriculum Vitae (Education)
+- type: heading
+  label: Public Relations
+- type: heading
+  label: Videos
+- type: heading
+  label: News Stories
 - type: directory
   path: ''
   label: Directory
